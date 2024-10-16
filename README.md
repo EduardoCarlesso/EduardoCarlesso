@@ -21,7 +21,7 @@
   </div>
    <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
    width="400px" align="right" alt="luli">  
-   <img src="https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/4497da15-fb99-41a6-b368-01f1ed1ff61c" min-width="400px" max-width="400px" width="200px" align="right" alt="lulu"/>
+   
    #### Ferramenta de trabalho:
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
    
@@ -44,12 +44,10 @@
  
   #### contatos:
   <div> 
-  <a href="https://instagram.com/luizahnaziazeno?igshid=YTQwZjQ0NmI0OA=="target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizanaziazenowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luizahackenhaarnaziazeno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href = "mailto:ecarlessosilveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardo-carlesso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>    
 	  
-<a href ="https://linktr.ee/luizahnaziazeno"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 
 
 
