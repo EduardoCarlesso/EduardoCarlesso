@@ -21,6 +21,8 @@
   </div>
    <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
    width="400px" align="right" alt="luli">  
+   <img width="200px" min-width="400px" max-width="400px" align="right" src="https://github.com/user-attachments/assets/e3958824-5487-4f08-b916-634ffa2578d1"/>
+
    
    #### Ferramenta de trabalho:
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
