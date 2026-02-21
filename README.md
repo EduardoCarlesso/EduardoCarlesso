@@ -1,57 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==26DFEE&size=35&center=true&vCenter=true&width=1000&lines=OII,+Meu+nome+é+Eduardo+Carlesso+Silveira;Estudante+De+Ciência+Da+Computação;BemVindo!+:%29)](https://git.io/typing-svg)   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=781FF9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Carlesso+Silveira;Computer+Science+Student;Welcome!+:%29)](https://git.io/typing-svg)                                                                                                                                                                                     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D320EF&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+Mi+nombre+es+Eduardo+Carlesso+Silveira;Estudiante+De+Informática;Bienvenidos!+:%29)](https://git.io/typing-svg)  
+<!-- ANIMAÇÃO DE TEXTO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=26DFEE&size=35&center=true&vCenter=true&width=1000&lines=OII,+Meu+nome+é+Eduardo+Carlesso+Silveira;Estudante+de+Ciência+da+Computação;Bem-vindo!+:%29"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=781FF9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Carlesso+Silveira;Computer+Science+Student;Welcome!+:%29"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=D320EF&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+Mi+nombre+es+Eduardo+Carlesso+Silveira;Estudiante+de+Informática;Bienvenidos!+:%29"/>
+</p>
 
+---
 
-	
-
-  <div  align="center" style="margin-bottom:100px">
- <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EduardoCarlesso&theme=synthwave" />
-
-  </div>
-
-
-
-  &nbsp;
-  &nbsp;
-  #### minhas linguagens:
-  <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  
-  </div>
-   <img src=https://github.com/luizahackenhaarnaziazeno/luizahackenhaarnaziazeno/assets/142232479/1dc9e343-f99e-4f3f-8a19-86a1d173daf9 min-width="400px" max-width="400px" 
-   width="400px" align="right" alt="luli">  
-   <img width="200px" min-width="400px" max-width="400px" align="right" src="https://github.com/user-attachments/assets/e3958824-5487-4f08-b916-634ffa2578d1"/>
-
-   
-   #### Ferramenta de trabalho:
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-   
-  </div>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> 
-
-  </div>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
-  </div>
-
-
+<!-- STATS -->
+<div align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=EduardoCarlesso&theme=synthwave" />
 </div>
- #### Ferramenta que tenho conhecimento:
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 
- </div>
-  
-  
- 
-  #### contatos:
-  <div> 
-  <a href = "mailto:ecarlessosilveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduardo-carlesso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>    
-	  
+---
 
+# 🚀 Tecnologias & Ferramentas
 
+## 💻 Linguagens de Programação
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-  
-   </div>
+## 🌐 Desenvolvimento Web
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+## 🗄️ Banco de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+## 🛠️ Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+# 📬 Contato
+<p align="center">
+  <a href="mailto:ecarlessosilveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-carlesso/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- GIF OPCIONAL (pode trocar o link se quiser outro) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"/>
+</p>
